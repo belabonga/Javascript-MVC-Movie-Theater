@@ -1,1 +1,1 @@
-# hcktv-P1-W2D1-MovieTheater
+# Javascript MVC Learning - Movie Theater
